@@ -1,4 +1,4 @@
-Ciao sono Nicola Iantomasi e ti do il benvenuto sulla mia pagina di Github. Sono un docente con più di mille ore di esperienza in corsi di SQL, Tuning delle performance di SQL Server, MongoDB, Python per il Machine Learning, Excel e Access. Qui troverai il codice delle lezioni dei miei <b>videocorsi gratuiti</b> su:
+Ciao, sono Nicola Iantomasi e ti do il benvenuto sulla mia pagina di Github. Sono un docente con più di mille ore di esperienza in corsi di SQL, Tuning delle performance di SQL Server, MongoDB, Python per il Machine Learning, Excel e Access. Qui troverai il codice delle lezioni dei miei <b>videocorsi gratuiti</b> su:
 - linguaggio SQL e scritture delle query 
 - piani d'esecuzione di SQL Server
 - import dei dati con Python e Pandas
