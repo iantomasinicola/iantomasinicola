@@ -8,9 +8,9 @@ Ciao, sono Nicola Iantomasi e ti do il benvenuto sulla mia pagina di Github. Son
 
 oltre a vari progetti personali associati alla mia attività da formatore e sviluppatore.
 
-Ecco il link per accedere ai miei video corsi gratuiti https://www.yimp.it/course-category/video-corsi-gratuiti/
+Ecco il link per accedere ai video corsi gratuiti https://www.yimp.it/course-category/video-corsi-gratuiti/ sul mio sito web.
 
-Sono  Se vuoi più informazioni sulle mie attività scrivimi a nicola.iantomasi@yimp.it o visita il mio sito web www.yimp.it
+Se vuoi più informazioni sulle mie attività scrivimi a nicola.iantomasi@yimp.it o visita il mio sito web www.yimp.it
 
 <!--
 **iantomasinicola/iantomasinicola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
