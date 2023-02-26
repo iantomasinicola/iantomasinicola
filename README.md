@@ -1,4 +1,4 @@
-Sono Nicola Iantomasi, un IT-Trainer specializzato nella programmazione per l'analisi dei dati. Sul mio Github troverai il codice delle lezioni dei miei videocorsi su:
+Sono Nicola Iantomasi, un IT-Trainer specializzato nella programmazione per l'analisi dei dati. Sul mio Github troverai il codice delle lezioni dei miei <b>videocorsi gratuiti</b> su:
 - linguaggio SQL e scritture delle query 
 - piani d'esecuzione di SQL Server
 - import dei dati con Python e Pandas
