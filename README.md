@@ -5,6 +5,7 @@ Sono Nicola Iantomasi, un IT-Trainer specializzato nella programmazione per l'an
 - MongoDB
 - Power BI Desktop
 - Excel
+
 oltre a vari progetti personali associati alla mia attività da formatore e sviluppatore.
 
 Ecco il link per accedere ai miei video corsi gratuiti https://www.yimp.it/course-category/video-corsi-gratuiti/
