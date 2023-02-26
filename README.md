@@ -4,7 +4,7 @@ Sono Nicola Iantomasi, un IT-Trainer specializzato nella programmazione per l'an
 - import dei dati con Python e Pandas
 - MongoDB
 - Power BI Desktop
-- Excel
+- funzioni su Excel
 
 oltre a vari progetti personali associati alla mia attività da formatore e sviluppatore.
 
