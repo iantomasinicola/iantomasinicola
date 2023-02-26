@@ -10,7 +10,7 @@ oltre a vari progetti personali associati alla mia attività da formatore e svil
 
 Ecco il link per accedere ai miei video corsi gratuiti https://www.yimp.it/course-category/video-corsi-gratuiti/
 
-Sono un docente con più di mille ore di esperienza in corsi di SQL, MongoDB, Python per il Machine Learning, Excel e Access.
+Sono un docente con più di mille ore di esperienza in corsi di SQL, MongoDB, Python per il Machine Learning, Excel e Access. Se vuoi più informazioni sulle mie attività scrivimi a nicola.iantomasi@yimp.it o visita il mio sito web www.yimp.it
 
 <!--
 **iantomasinicola/iantomasinicola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
