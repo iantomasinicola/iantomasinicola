@@ -7,7 +7,7 @@ Sono Nicola Iantomasi, un IT-Trainer specializzato nella programmazione per l'an
 - Excel
 oltre a vari progetti personali associati alla mia attività da formatore e sviluppatore.
 
-Questo il link ai miei video corsi gratuiti https://www.yimp.it/course-category/video-corsi-gratuiti/
+Ecco il link per accedere ai miei video corsi gratuiti https://www.yimp.it/course-category/video-corsi-gratuiti/
 
 <!--
 **iantomasinicola/iantomasinicola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
