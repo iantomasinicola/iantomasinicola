@@ -10,7 +10,7 @@ oltre a vari progetti personali associati alla mia attività da formatore e svil
 
 Ecco il link per accedere ai video corsi gratuiti https://www.yimp.it/course-category/video-corsi-gratuiti/ sul mio sito web.
 
-Se vuoi più informazioni sulle mie attività scrivimi a nicola.iantomasi@yimp.it o visita il mio sito web www.yimp.it
+Se vuoi più informazioni sulle mie attività scrivimi a nicola.iantomasi@yimp.it o visita www.yimp.it
 
 <!--
 **iantomasinicola/iantomasinicola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
