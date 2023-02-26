@@ -2,7 +2,7 @@ Sono Nicola Iantomasi, un IT-Trainer specializzato nella programmazione per l'an
 - linguaggio SQL e scritture delle query 
 - piani d'esecuzione di SQL Server
 - import dei dati con Python e Pandas
-- MongoDB
+- introduzione a MongoDB
 - Power BI Desktop
 - funzioni su Excel
 
