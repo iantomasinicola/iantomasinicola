@@ -5,6 +5,7 @@ Ciao, sono Nicola Iantomasi e ti do il benvenuto sulla mia pagina di Github. Son
 - introduzione a MongoDB
 - Power BI Desktop
 - funzioni su Excel
+- creare un Database con Access
 
 oltre a vari progetti personali associati alla mia attività da formatore e sviluppatore.
 
