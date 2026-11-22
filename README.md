@@ -14,6 +14,7 @@ Per aziende, centri di formazione e privati, su Microsoft Teams:
 - [Corso di Intelligenza Artificiale](https://www.yimp.it/corso-intelligenza-artificiale/)
 - [Corso Python e Machine Learning](https://www.yimp.it/corso-machine-learning-python/)
 - [Corso SQL Academy](https://www.yimp.it/corso-sql-academy/)
+- [Corso avanzato di Performance Tuning su SQL Server e Azure SQL](https://www.yimp.it/corso-avanzato-performance-sql-server/)
 - [Corso Power BI](https://www.yimp.it/corso-power-bi/) e [preparazione PL-300](https://www.yimp.it/corso-power-bi-certificazione-pl-300/)
 - [Tutti i corsi](https://www.yimp.it/corsi-data-analyst-e-data-scientist/)
 
@@ -29,6 +30,8 @@ Online, per aziende, professionisti e laureandi:
 
 ## Repository utili
 - [DatabaseYimp](https://github.com/iantomasinicola/DatabaseYimp): database di esempio in italiano per esercitarsi con SQL su SQL Server, MySQL e PostgreSQL
+- [corso-performance-sql-server](https://github.com/iantomasinicola/corso-performance-sql-server): script T-SQL su piani d'esecuzione, indici e algoritmi di join
+- [Machine-Learning-con-SQL](https://github.com/iantomasinicola/Machine-Learning-con-SQL): il Perceptron implementato in T-SQL su SQL Server
 - [PortfolioDataAnalyst](https://github.com/iantomasinicola/PortfolioDataAnalyst): project work di analisi dei dati con SQL Server, Python ed Excel
 - [fantacalcio-e-intelligenza-artificiale](https://github.com/iantomasinicola/fantacalcio-e-intelligenza-artificiale): un algoritmo genetico in Python per il fantacalcio
 - [eBook](https://github.com/iantomasinicola/eBook): script e dati dell'eBook "Come scrivere una query"
@@ -38,12 +41,14 @@ La mia piattaforma di videocorsi registrati su AI e Data Analysis, in abbonament
 [scopri la Scuola dei Dati](https://www.yimp.it/la-scuola-dei-dati-patreon/).
 
 ## Guide gratuite
+- [Guida all'Intelligenza Artificiale: LLM, agenti AI e Machine Learning](https://www.yimp.it/guida-intelligenza-artificiale/)
 - [Guida Python, analisi dati e Machine Learning](https://www.yimp.it/guida-python-analisi-dati-machine-learning/)
 - [Guida SQL e Database](https://www.yimp.it/guida-sql-database/)
 - [T-SQL avanzato e performance di SQL Server](https://www.yimp.it/tsql-avanzato-performance-sql-server/)
 - [Guida Business Intelligence e Power BI](https://www.yimp.it/guida-business-intelligence-power-bi/)
+- [Guida Excel](https://www.yimp.it/guida-excel-funzioni-pivot/)
 - [Guida Statistica](https://www.yimp.it/guida-statistica-descrittiva-inferenziale/)
-- [Corsi gratuiti](https://www.yimp.it/corsi-gratuiti-intelligenza-artificiale-data-analysis/)
+- [Video corsi gratuiti](https://www.yimp.it/corsi-gratuiti-intelligenza-artificiale-data-analysis/)
 
 ## Certificazioni
 - [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/nicolaiantomasi/credentials/823b2308388f67a9)
